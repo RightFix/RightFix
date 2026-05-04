@@ -12,7 +12,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=RightFix&color=blue&style=for-the-badge" alt="Profile Views">
-  <img src="https://img.shields.io/github/followers/RightFix?style=for-the-badge" alt="Followers">
 </p>
 
 ---
