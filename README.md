@@ -1,6 +1,6 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=2563eb&height=300&section=header&text=Hello%20World&fontSize=50&animation=fadeIn&fontAlignY=35)
 
-<h1 align="center">Hi, I'm Righteousness Ude 👋</h1>
+<h1 align="center">Hi, I'm Righteousness 👋</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3572A5?style=flat&logo=python&logoColor=white" alt="Python">
