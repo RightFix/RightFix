@@ -1,9 +1,13 @@
+![Header](https://capsule-render.vercel.app/api?type=waving&color=2563eb&height=300&section=header&text=Hi,%20I'm%20Righteousness%20Ude&fontSize=50&animation=fadeIn&fontAlignY=35)
+
 <h1 align="center">Hi, I'm Righteousness Ude 👋</h1>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=RightFix&theme=dark&no-frame=true&no-bg=true&margin-w=4" alt="Trophy">
-  </a>
+  <img src="https://img.shields.io/badge/Python-3572A5?style=flat&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React">
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" alt="Django">
 </p>
 
 ---
@@ -11,19 +15,19 @@
 ### 🔥 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RightFix&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Stats">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RightFix&layout=compact&langs_count=8&theme=radical" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=RightFix&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RightFix&layout=compact&theme=dracula&hide_border=true" alt="Languages">
 </p>
 
 ---
 
 ### 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,js,typescript,react,nodejs,html,css,shell&theme=dark" alt="Tech Stack">
-  <br><br>
-  <img src="https://skillicons.dev/icons?i=vercel,git,postgres,sqlite&theme=dark" alt="Tools">
-</p>
+**Languages:** Python, JavaScript, TypeScript, HTML, CSS, Shell
+
+**Frameworks:** React, Django, Kivy, Node.js
+
+**Tools:** Vercel, Git, PostgreSQL, SQLite
 
 ---
 
@@ -48,20 +52,14 @@
 
 ### 🚀 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/RightFix/Portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RightFix&repo=Portfolio&theme=radical&show_owner=true" alt="Portfolio">
-  </a>
-  <a href="https://github.com/RightFix/notepad">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RightFix&repo=notepad&theme=radical&show_owner=true" alt="Notepad">
-  </a>
-  <a href="https://github.com/RightFix/ZealyBotBackend">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RightFix&repo=ZealyBotBackend&theme=radical&show_owner=true" alt="ZealyBotBackend">
-  </a>
-</p>
+| Project | Description | Language |
+|---------|-------------|----------|
+| [Portfolio](https://github.com/RightFix/Portfolio) | My portfolio website | TypeScript |
+| [notepad](https://github.com/RightFix/notepad) | A notepad application | Python |
+| [ZealyBotBackend](https://github.com/RightFix/ZealyBotBackend) | API for the zealy bot | Python |
 
 ---
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Quote">
+  Thanks for visiting! 😊
 </p>
