@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=2563eb&height=300&section=header&text=Hi,%20I'm%20Righteousness%20Ude&fontSize=50&animation=fadeIn&fontAlignY=35)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=2563eb&height=300&section=header&text=Hello, World&fontSize=50&animation=fadeIn&fontAlignY=35)
 
 <h1 align="center">Hi, I'm Righteousness Ude 👋</h1>
 
