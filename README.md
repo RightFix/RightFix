@@ -43,9 +43,8 @@
 
 | Project | Description | Language |
 |---------|-------------|----------|
-| [Portfolio](https://github.com/RightFix/Portfolio) | My portfolio website | TypeScript |
-| [notepad](https://github.com/RightFix/notepad) | A notepad application | Python |
-| [ZealyBotBackend](https://github.com/RightFix/ZealyBotBackend) | API for the zealy bot | Python |
+| [Tmux](https://github.com/RightFix/tmux-acode) | A Plugin to install and use tmux on acode | TypeScript |
+| [OpenCode Acode](https://github.com/RightFix/opencode-acode) | A  Plugin in Acode app to use OpenCode | Python |
 
 ---
 
