@@ -47,6 +47,7 @@
 | [Nomba Docs](https://github.com/RightFix/nomba-docs) | The Documentation Website For The Unofficial Python Library For Nomba  | HTML |
 | [Tmux](https://github.com/RightFix/tmux-acode) | A Plugin To Install And Use Tmux On Acode | TypeScript |
 | [OpenCode Acode](https://github.com/RightFix/opencode-acode) | A  Plugin In Acode App To Use OpenCode | Python |
+| [LocalShare](https://github.com/RightFix/localshare) | A gnome extension for file transfer | Rust |
 
 ---
 
