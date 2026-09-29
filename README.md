@@ -48,6 +48,8 @@
 | [Tmux](https://github.com/RightFix/tmux-acode) | A Plugin To Install And Use Tmux On Acode | TypeScript |
 | [OpenCode Acode](https://github.com/RightFix/opencode-acode) | A  Plugin In Acode App To Use OpenCode | Python |
 | [LocalShare](https://github.com/RightFix/localshare) | A gnome extension for file transfer | Rust |
+| [Py-Runner-Kernel](https://github.com/RightFix/py-runner) | The Official Py-Runner-Kernel Python Library | Python |
+| [Jupyter Notebook (Acode)](https://github.com/RightFix/jupyter-acode) | The Jupyter notebook extension for Acode App | Typescript 
 
 ---
 
