@@ -43,8 +43,12 @@
 
 | Project | Description | Language |
 |---------|-------------|----------|
-| [Nomba](https://github.com/RightFix/nomba) | An Unofficial Python Library For Nomba  | Python |
-| [Nomba Docs](https://github.com/RightFix/nomba-docs) | The Documentation Website For The Unofficial Python Library For Nomba  | HTML |
+| [Paga-Python](https://github.com/TrustBridge/paga-python) | An Unofficial Python Library For Paga  | Python |
+| [Paga-RS](https://github.com/TrustBridge/paga-rs) | An Unofficial Rust Crate For Paga  | Rust |
+| [Paga-TS](https://github.com/TrustBridge/paga-ts) | An Unofficial Node Package For Nomba  | TypeScript |
+| [Nomba-Python](https://github.com/RightFix/nomba) | An Unofficial Python Library For Nomba  | Python |
+| [Nomba-RS](https://github.com/RightFix/nomba-rs) | An Unofficial Rust Crate For Nomba  | Rust |
+| [Nomba-TS](https://github.com/RightFix/nomba-ts) | An Unofficial Node Package For Nomba  | TypeScript |
 | [Tmux](https://github.com/RightFix/tmux-acode) | A Plugin To Install And Use Tmux On Acode | TypeScript |
 | [OpenCode Acode](https://github.com/RightFix/opencode-acode) | A  Plugin In Acode App To Use OpenCode | Python |
 | [LocalShare](https://github.com/RightFix/localshare) | A gnome extension for file transfer | Rust |
