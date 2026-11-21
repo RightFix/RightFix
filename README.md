@@ -43,9 +43,9 @@
 
 | Project | Description | Language |
 |---------|-------------|----------|
-| [Paga-Python](https://github.com/TrustBridge/paga-python) | An Unofficial Python Library For Paga  | Python |
-| [Paga-RS](https://github.com/TrustBridge/paga-rs) | An Unofficial Rust Crate For Paga  | Rust |
-| [Paga-TS](https://github.com/TrustBridge/paga-ts) | An Unofficial Node Package For Nomba  | TypeScript |
+| [Paga-Python](https://github.com/TeamTrustBridge/paga-python) | An Unofficial Python Library For Paga  | Python |
+| [Paga-RS](https://github.com/TeamTrustBridge/paga-rs) | An Unofficial Rust Crate For Paga  | Rust |
+| [Paga-TS](https://github.com/TeamTrustBridge/paga-ts) | An Unofficial Node Package For Nomba  | TypeScript |
 | [Nomba-Python](https://github.com/RightFix/nomba) | An Unofficial Python Library For Nomba  | Python |
 | [Nomba-RS](https://github.com/RightFix/nomba-rs) | An Unofficial Rust Crate For Nomba  | Rust |
 | [Nomba-TS](https://github.com/RightFix/nomba-ts) | An Unofficial Node Package For Nomba  | TypeScript |
